@@ -1,0 +1,7 @@
+C:\Users\murilo.lpzamaioli\source\repos\Estados Nordeste\Times Brasileiros\bin\Debug\Times Brasileiros.exe.config
+C:\Users\murilo.lpzamaioli\source\repos\Estados Nordeste\Times Brasileiros\bin\Debug\Times Brasileiros.exe
+C:\Users\murilo.lpzamaioli\source\repos\Estados Nordeste\Times Brasileiros\bin\Debug\Times Brasileiros.pdb
+C:\Users\murilo.lpzamaioli\source\repos\Estados Nordeste\Times Brasileiros\obj\Debug\Times Brasileiros.csproj.AssemblyReference.cache
+C:\Users\murilo.lpzamaioli\source\repos\Estados Nordeste\Times Brasileiros\obj\Debug\Times Brasileiros.csproj.CoreCompileInputs.cache
+C:\Users\murilo.lpzamaioli\source\repos\Estados Nordeste\Times Brasileiros\obj\Debug\Times Brasileiros.exe
+C:\Users\murilo.lpzamaioli\source\repos\Estados Nordeste\Times Brasileiros\obj\Debug\Times Brasileiros.pdb
